@@ -1,4 +1,4 @@
-+console.log('Welcome to 🌡️ Temperature Converter');
+console.log('Welcome to 🌡️ Temperature Converter');
 
 const tempLoad = () => {
     let fa = document.getElementById('fa');
